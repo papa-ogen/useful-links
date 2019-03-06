@@ -18,6 +18,10 @@
 
 ## Phaser
 * https://github.com/lean/phaser-es6-webpack
+* https://www.npmjs.com/package/create-phaser-app (https://github.com/simiancraft/create-phaser-app)
+* https://rexrainbow.github.io/phaser3-rex-notes/docs/site/
+* https://www.mapeditor.org/
+* https://assetstore.unity.com/?gclid=CjwKCAiA_P3jBRAqEiwAZyWWaMbU0OmaViYvOfb9zycxKFTy5V7HpfXLU-OrZNFG6bF5FYBrLooUgxoCOvYQAvD_BwE
 
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
