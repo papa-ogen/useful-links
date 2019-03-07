@@ -25,3 +25,5 @@
 
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
+* brackets.io
+* Sprite tool - https://renderhjs.net/shoebox/
