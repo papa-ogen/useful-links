@@ -15,6 +15,7 @@
 
 ## TypeScript and React
 * https://medium.com/@martin_hotell/react-typescript-and-defaultprops-dilemma-ca7f81c661c7
+* https://github.com/piotrwitek/react-redux-typescript-guide/blob/master/README.md
 
 ## Phaser
 * https://github.com/lean/phaser-es6-webpack
