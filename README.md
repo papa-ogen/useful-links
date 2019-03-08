@@ -23,8 +23,11 @@
 * https://rexrainbow.github.io/phaser3-rex-notes/docs/site/
 * https://www.mapeditor.org/
 * https://assetstore.unity.com/?gclid=CjwKCAiA_P3jBRAqEiwAZyWWaMbU0OmaViYvOfb9zycxKFTy5V7HpfXLU-OrZNFG6bF5FYBrLooUgxoCOvYQAvD_BwE
+* https://itch.io/game-assets/free
+* https://opengameart.org/
+* Sprite tool - https://renderhjs.net/shoebox/
 
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
 * Simple IDE with built in web server - http://brackets.io/
-* Sprite tool - https://renderhjs.net/shoebox/
+
