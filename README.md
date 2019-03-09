@@ -26,6 +26,7 @@
 * https://itch.io/game-assets/free
 * https://opengameart.org/
 * Sprite tool - https://renderhjs.net/shoebox/
+* https://freesound.org/ - Soundbank
 
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
