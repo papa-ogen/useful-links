@@ -19,6 +19,7 @@
 
 ## Phaser
 * https://github.com/lean/phaser-es6-webpack
+* https://github.com/digitsensitive/phaser3-typescript
 * https://www.npmjs.com/package/create-phaser-app (https://github.com/simiancraft/create-phaser-app)
 * https://rexrainbow.github.io/phaser3-rex-notes/docs/site/
 * https://www.mapeditor.org/
