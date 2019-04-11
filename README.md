@@ -3,6 +3,7 @@
 ## JavaScript
 * https://date-fns.org/
 * https://parceljs.org/
+* Easy async pattern - https://dev.to/damcosset/asynchronous-code-with-asyncawait-7cd
 
 ## React
 * http://kyleamathews.github.io/react-spinkit/
