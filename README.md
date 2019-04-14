@@ -39,3 +39,5 @@
 * Simple IDE with built in web server - http://brackets.io/
 * https://hyper.is/ - Terminal built on Electron
 
+## VSCODE
+* https://snippet-generator.app
