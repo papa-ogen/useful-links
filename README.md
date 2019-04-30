@@ -34,6 +34,9 @@
 * https://www.audacityteam.org/ - Convert audo format
 * https://www.piskelapp.com/
 
+## Machine Learing
+* https://machinelearning.tobiashill.se
+
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
 * Simple IDE with built in web server - http://brackets.io/
