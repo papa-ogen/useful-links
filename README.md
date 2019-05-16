@@ -35,6 +35,7 @@
 * https://www.piskelapp.com/
 * Spritesheet animation tutorial - https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-for-phaser3
 * Easystar - https://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/
+* Fragment converter - https://realhe.ro/fragment-converter/ and resource: http://glslsandbox.com/
 
 ## Machine Learing
 * https://machinelearning.tobiashill.se
