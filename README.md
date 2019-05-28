@@ -43,6 +43,7 @@
 
 ## Machine Learing
 * https://machinelearning.tobiashill.se
+* http://neuralnetworksanddeeplearning.com/
 
 ## Misc
 * Stock photos: https://www.hongkiat.com/blog/free-high-quality-stock-videos/
