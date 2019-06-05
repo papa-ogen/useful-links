@@ -56,3 +56,6 @@
 
 ## Math
 * Circle to circle collision - https://books.google.se/books?id=TU0nCgAAQBAJ&pg=PA487&lpg=PA487&dq=moving+circles+collision&source=bl&ots=3wjUEGYWDj&sig=ACfU3U09LxDvLJ4_Wsajec3AIIBS-C58GQ&hl=en&sa=X&ved=2ahUKEwjQq_uw_8ziAhUmposKHWfVC2sQ6AEwDXoECAgQAQ#v=onepage&q=moving%20circles%20collision&f=false
+
+## HTML Canvas
+* Optimize Canvas Rendering - https://developer.ibm.com/tutorials/wa-canvashtml5layering/
