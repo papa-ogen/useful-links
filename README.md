@@ -50,6 +50,7 @@
 * Simple IDE with built in web server - http://brackets.io/
 * https://hyper.is/ - Terminal built on Electron
 * https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces
+* Publish NPM package - https://hackernoon.com/publish-your-own-npm-package-946b19df577e
 
 ## VSCODE
 * https://snippet-generator.app
