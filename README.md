@@ -65,6 +65,7 @@
 * Perlin noise in JS - https://gist.github.com/banksean/304522
 * Collision detection - https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
 * Kahn Academy - https://www.khanacademy.org/math
+* Bresenham's algorithm - https://en.wikipedia.org/wiki/Midpoint_circle_algorithm
 
 ## HTML Canvas
 * Optimize Canvas Rendering - https://developer.ibm.com/tutorials/wa-canvashtml5layering/
