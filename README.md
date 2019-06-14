@@ -41,6 +41,11 @@
 * shader resources - https://www.gamefromscratch.com/post/2014/05/16/OpenGL-Shader-Programming-Resources-Round-up.aspx
 * Fragment converter - https://realhe.ro/fragment-converter/ and resource: http://glslsandbox.com/
 
+## Particles
+* https://en.wikipedia.org/wiki/Particle_system
+* https://cal.cs.umbc.edu/Courses/CS6967-F08/Papers/Reeves-1983-PSA.pdf
+* https://www.gamasutra.com/view/feature/3157/building_an_advanced_particle_.php
+
 ## Machine Learing
 * https://machinelearning.tobiashill.se
 * http://neuralnetworksanddeeplearning.com/
