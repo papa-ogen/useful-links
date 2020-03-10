@@ -1,5 +1,8 @@
 # useful-links
 
+## Create parcel or webpack project
+* https://createapp.dev/parcel
+
 ## JavaScript
 * https://date-fns.org/
 * https://parceljs.org/
