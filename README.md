@@ -8,6 +8,9 @@
 * https://parceljs.org/
 * Easy async pattern - https://dev.to/damcosset/asynchronous-code-with-asyncawait-7cd
 
+## Xstate
+* https://xstate.js.org/viz/ - preview state machine
+
 ## React
 * http://kyleamathews.github.io/react-spinkit/
 * https://medium.com/@learnreact/container-components-c0e67432e005
