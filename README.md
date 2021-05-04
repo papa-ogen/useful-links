@@ -1,5 +1,8 @@
 # useful-links
 
+## Code Exercises
+* https://www.codewars.com/kata
+
 ## Create parcel or webpack project
 * https://createapp.dev/parcel
 
