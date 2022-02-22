@@ -78,3 +78,6 @@
 
 ## HTML Canvas
 * Optimize Canvas Rendering - https://developer.ibm.com/tutorials/wa-canvashtml5layering/
+
+## Performance
+* https://developer.chrome.com/docs/devtools/evaluate-performance/
