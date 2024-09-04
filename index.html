@@ -21,6 +21,23 @@
       <p>You need to refresh the page for the widget button to show up.</p>
     </div>
 
+    <p>
+      Add kundo-widget-ai = true to local storage to activate
+      <strong>mad</strong> <span style="font-size: 30px">MAX</span>
+      <button
+        id="add-mad-max-cookie"
+        style="
+          border: 1px solid #666;
+          padding: 4px;
+          margin: 4px 0;
+          background-color: red;
+          color: azure;
+        "
+      >
+        Add Cookie
+      </button>
+    </p>
+
     <script>
       document.querySelector("#add-cookie").addEventListener("click", () => {
         localStorage.setItem("kundo-widget-demo", true);
@@ -33,6 +50,14 @@
       if (hasDemoCookie) {
         document.querySelector("#preamble").style.display = "none";
       }
+
+      document
+        .querySelector("#add-mad-max-cookie")
+        .addEventListener("click", () => {
+          localStorage.setItem("kundo-widget-ai", true);
+          alert("Mad Max ActiVAteD!");
+          location.reload();
+        });
     </script>
 
     <script>
