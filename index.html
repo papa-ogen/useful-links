@@ -6,14 +6,34 @@
     <title>Useful Links</title>
   </head>
   <body>
-    <h1>Useful Links</h1>
-    <ul>
-      <li><a href="https://www.w3schools.com/">W3Schools</a></li>
-      <li><a href="https://www.stackoverflow.com/">Stack Overflow</a></li>
-      <li><a href="https://www.github.com/">GitHub</a></li>
-      <li><a href="https://www.codecademy.com/">Codecademy</a></li>
-      <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
-    </ul>
+    <h1>Demo</h1>
+    <div id="preamble">
+      <p>
+        Add kundo-widget-demo = true to local storage in order for widget button
+        to show up.
+      </p>
+      <button
+        id="add-cookie"
+        style="border: 1px solid #666; padding: 4px; margin: 4px 0"
+      >
+        Add Cookie
+      </button>
+      <p>You need to refresh the page for the widget button to show up.</p>
+    </div>
+
+    <script>
+      document.querySelector("#add-cookie").addEventListener("click", () => {
+        localStorage.setItem("kundo-widget-demo", true);
+        alert("Cookie added!");
+        location.reload();
+      });
+
+      const hasDemoCookie = !!localStorage.getItem("kundo-widget-demo");
+
+      if (hasDemoCookie) {
+        document.querySelector("#preamble").style.display = "none";
+      }
+    </script>
 
     <script>
       (function (w, d, s, o, f, js, fjs) {
